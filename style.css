@@ -3,8 +3,6 @@ html{
 }
 body{
     border-style: hidden;
-    border-color: black;
-    border-radius: 200vw;
     background-image: url("../img/gg.jpg");
     background: cover;
     
